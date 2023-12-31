@@ -10,7 +10,7 @@ Remember to sync this Qualified project with your local machine.
 For detailed instructions on how to complete this project, consult the instructions on the Qualified assessment page.
 
 ## Learning objectives
-This project is designed to test your ability to build complex algorithms. It will also test your ability to write unit tests with Mocha and Chai to test your algorithms. You will not need to make any edits to HTML or CSS for this project. Before taking on this project, you should be comfortable with the learning objectives listed below:
+This project was designed to test my ability to build complex algorithms. It will also test my ability to write unit tests with Mocha and Chai to test your algorithms. I had to apply the objectives listed below:
 
 Writing a series of unit tests using Mocha and Chai
 
